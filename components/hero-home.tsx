@@ -91,7 +91,7 @@ export default function HeroHome() {
                 >
                   <a
                     className="btn group mb-4 w-full bg-linear-to-t from-blue-600 to-blue-500 bg-[length:100%_100%] bg-[bottom] text-white shadow-sm hover:bg-[length:100%_150%] sm:mb-0 sm:w-auto"
-                    href="#0"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSdsoLL7Ycr6FOIigXny-u3d7uHsLyndsaJwNEiK7mG8NMfHlA/viewform?usp=dialog"
                   >
                     <span className="relative inline-flex items-center">
                       Expand with Us{" "}
