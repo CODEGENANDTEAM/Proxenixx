@@ -40,7 +40,7 @@ Proxenixx is a modern and responsive web portfolio built using **Next.js** and *
 1. Clone the Repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/proxenixx.git
+git clone https://github.com/codegenandteam/proxenixx.git
 cd proxenixx
 
 2. Install Dependencies
